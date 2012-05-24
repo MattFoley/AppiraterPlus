@@ -13,7 +13,7 @@ extern NSString *const kAppiraterDeclinedToRate;
  Place your Apple generated software id here.
  */
 #warning Enter your specific app id here.
-#define APPIRATER_APP_ID				501287445
+#define APPIRATER_APP_ID				525881754
 
 /*
  Your app's name.
