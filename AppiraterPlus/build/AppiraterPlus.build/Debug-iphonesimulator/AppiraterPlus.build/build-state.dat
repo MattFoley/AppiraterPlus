@@ -1,0 +1,338 @@
+TAppiraterPlus
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/Info.plist" AppiraterPlus/AppiraterPlus-Info.plist
+cProcessPCH /var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch.pth AppiraterPlus/AppiraterPlus-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppiraterPlus.o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppDelegate.o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/ViewController.o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/main.o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus" normal i386
+cGenerateDSYMFile "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app.dSYM" "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus"
+cCopyStringsFile "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/en.lproj/InfoPlist.strings" AppiraterPlus/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/en.lproj/ViewController.xib"
+cCompileXIB "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/Resources/../AppiraterPlus/AppiraterPlus.xib"
+cCpResource AppiraterPlus/Resources/rateView.png build/Debug-iphonesimulator/AppiraterPlus.app/rateView.png
+cTouch "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F7C9AC90000000000000110
+t1333566153
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004F63BE6E00000000002051E0
+t1331936878
+s2118112
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F63BE6E0000000000244490
+t1331936878
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F63BE6F0000000000353830
+t1331936879
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004F63BE72000000000006C8A0
+t1331936882
+s444576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F63BE740000000000905E40
+t1331936884
+s9461312
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.h
+c000000004FBDA61A00000000000001A6
+t1337828890
+s422
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m
+c000000004FBDA6ED000000000000098D
+t1337829101
+s2445
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus-Prefix.pch
+c000000004FBDA3E40000000000000149
+t1337828324
+s329
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.h
+c000000004FBDA83F0000000000001706
+t1337829439
+s5894
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m
+c000000004FBDA5F8000000000000318D
+t1337828856
+s12685
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/Resources/../AppiraterPlus/AppiraterPlus.xib
+c000000004FBDA55C0000000000003465
+t1337828700
+s13413
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/Resources/rateView.png
+c000000004FBDA7100000000000009F6F
+t1337829136
+s40815
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/ViewController.h
+c000000004FBDA7D4000000000000010C
+t1337829332
+s268
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/ViewController.m
+c000000004FBDA7D4000000000000035E
+t1337829332
+s862
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/en.lproj/InfoPlist.strings
+c000000004FBDA3E4000000000000002D
+t1337828324
+s45
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/en.lproj/ViewController.xib
+c000000004FBDA81200000000000020E3
+t1337829394
+s8419
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/main.m
+c000000004FBDA3E40000000000000160
+t1337828324
+s352
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppDelegate.o
+t1337829333
+s62964
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppiraterPlus.LinkFileList
+c000000004FBDA7D4000000000000030A
+t1337829332
+s778
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppiraterPlus.o
+t1337829333
+s88300
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/ViewController.o
+t1337829333
+s46976
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/main.o
+t1337829333
+s3512
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app
+t1337829395
+s272
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app.dSYM
+t1337829333
+s102
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus
+t1337829333
+s45356
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus.nib
+t1337829334
+s2009
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/Info.plist
+t1337829332
+s825
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/PkgInfo
+t1337829332
+s8
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/en.lproj/InfoPlist.strings
+t1337829333
+s42
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/en.lproj/ViewController.nib
+t1337829395
+s1545
+
+N/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/rateView.png
+t1337829333
+s40815
+
+N/var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch.pth
+t1337829333
+s4048692
+
+NAppiraterPlus/AppiraterPlus-Info.plist
+c000000004FBDA3E40000000000000499
+t1337828324
+s1177
+
+CBuild AST from "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m"
+r0
+
+CBuild AST from "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/ViewController.m"
+r0
+
+CBuild AST from "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbe32c3bfdf6db541^198ccdbfdf6db541^---0#1#0#--18"Check dependencies36"46260BE5-8003-4342-B181-021E08D1DD57-
+
+CCompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppDelegate.o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359522239.817290
+e359522239.889423
+r1
+xCompileC
+xbuild/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppDelegate.o
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m:10:
+o/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.h:15:2: warning: #warning Enter your specific app id here. [-W#warnings]
+o#warning Enter your specific app id here.
+o ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m965cd1bfdf6db541^14aee3bfdf6db541^-421"In file included from /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m:10:/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.h:15:2: warning: #warning Enter your specific app id here. [-W#warnings]#warning Enter your specific app id here. ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@41"#warning Enter your specific app id here.-359522239#18446744073709551615#0#1(2@146"In file included from /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m:10:-359522239#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@140"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m0000000000000000^9#8#9#8#184#0#30"Apple LLVM compiler 3.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@156"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.h0000000000000000^14#1#14#1#390#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@140"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m0000000000000000^4131"CompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppDelegate.o AppiraterPlus/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-generated-files.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-own-target-headers.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-all-target-headers.hmap" -iquote "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-project-headers.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/include" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/DerivedSources/i386" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/DerivedSources" "-F/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator" -include /var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch -MMD -MT dependencies -MF "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppDelegate.m" -o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppDelegate.o"36"26F0A0DD-D9DC-4FA3-9E25-5EDA2BAA7D6A-
+
+CCompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppiraterPlus.o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359522239.817291
+e359522239.919064
+r1
+xCompileC
+xbuild/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppiraterPlus.o
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m:3:
+o/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.h:15:2: warning: #warning Enter your specific app id here. [-W#warnings]
+o#warning Enter your specific app id here.
+o ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Compile /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m9a5fd1bfdf6db541^7635edbfdf6db541^-436"In file included from /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m:3:/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.h:15:2: warning: #warning Enter your specific app id here. [-W#warnings]#warning Enter your specific app id here. ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@41"#warning Enter your specific app id here.-359522239#18446744073709551615#0#1(2@161"In file included from /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m:3:-359522239#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@156"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m0000000000000000^2#8#2#8#10#0#30"Apple LLVM compiler 3.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@156"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.h0000000000000000^14#1#14#1#390#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@156"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m0000000000000000^4171"CompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppiraterPlus.o AppiraterPlus/AppiraterPlus/AppiraterPlus.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-generated-files.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-own-target-headers.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-all-target-headers.hmap" -iquote "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-project-headers.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/include" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/DerivedSources/i386" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/DerivedSources" "-F/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator" -include /var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch -MMD -MT dependencies -MF "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppiraterPlus.d" --serialize-diagnostics "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppiraterPlus.dia" -c "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus.m" -o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppiraterPlus.o"36"80A04AD6-2728-47EE-8DF8-3FC05E6315E5-
+
+CCompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/ViewController.o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359522133.112788
+e359522133.323576
+r1
+xCompileC
+xbuild/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/ViewController.o
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/ViewController.m310b1d55df6db541^92e75255df6db541^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/ViewController.m0000000000000000^4149"CompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/ViewController.o AppiraterPlus/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-generated-files.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-own-target-headers.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-all-target-headers.hmap" -iquote "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-project-headers.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/include" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/DerivedSources/i386" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/DerivedSources" "-F/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator" -include /var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch -MMD -MT dependencies -MF "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/ViewController.dia" -c "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/ViewController.m" -o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/ViewController.o"36"D3DE87CA-CC5F-44E7-B362-93921D020320-
+
+CCompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/main.o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359522133.112484
+e359522133.168608
+r1
+xCompileC
+xbuild/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/main.o
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/main.m15021d55df6db541^6f292b55df6db541^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/main.m0000000000000000^4089"CompileC build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/main.o AppiraterPlus/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-generated-files.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-own-target-headers.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-all-target-headers.hmap" -iquote "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-project-headers.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/include" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/DerivedSources/i386" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/DerivedSources" "-F/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator" -include /var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch -MMD -MT dependencies -MF "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/main.dia" -c "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/main.m" -o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/main.o"36"5596FAFF-E813-47D9-B58B-B216A8A3C298-
+
+CCompileXIB "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/Resources/../AppiraterPlus/AppiraterPlus.xib"
+s359522133.455674
+e359522134.590254
+r1
+xCompileXIB
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/Resources/../AppiraterPlus/AppiraterPlus.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection161"Compiling /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/Resources/../AppiraterPlus/AppiraterPlus.xibd2c37455df6db541^f8199756df6db541^---0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/Resources/../AppiraterPlus/AppiraterPlus.xib0000000000000000^1079"CompileXIB AppiraterPlus/Resources/../AppiraterPlus/AppiraterPlus.xib    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus.nib" "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/Resources/../AppiraterPlus/AppiraterPlus.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"41A6F782-B0CF-4FF1-899E-349799ACF401-
+
+CCompileXIB "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/en.lproj/ViewController.xib"
+s359522194.904800
+e359522195.622124
+r1
+xCompileXIB
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Compiling /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/en.lproj/ViewController.xib84bbe792df6db541^52439f93df6db541^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/en.lproj/ViewController.xib0000000000000000^1055"CompileXIB AppiraterPlus/en.lproj/ViewController.xib    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/en.lproj/ViewController.nib" "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/en.lproj/ViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"6620CDA4-9BB1-493F-B1E6-63973B51383B-
+
+CCopyStringsFile "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/en.lproj/InfoPlist.strings" AppiraterPlus/en.lproj/InfoPlist.strings
+s359522133.455690
+e359522133.459911
+r1
+xCopyStringsFile
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/en.lproj/InfoPlist.strings
+xAppiraterPlus/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy AppiraterPlus/en.lproj/InfoPlist.strings2bbf7455df6db541^bfbb7555df6db541^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/en.lproj/InfoPlist.strings0000000000000000^711"CopyStringsFile build/Debug-iphonesimulator/AppiraterPlus.app/en.lproj/InfoPlist.strings AppiraterPlus/en.lproj/InfoPlist.strings    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/en.lproj" -- AppiraterPlus/en.lproj/InfoPlist.strings36"77726AD9-9A02-40F3-B47D-073BA511D532-
+
+CCpResource AppiraterPlus/Resources/rateView.png build/Debug-iphonesimulator/AppiraterPlus.app/rateView.png
+s359522133.456167
+e359522133.463950
+r1
+xCpResource
+xAppiraterPlus/Resources/rateView.png
+xbuild/Debug-iphonesimulator/AppiraterPlus.app/rateView.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/AppiraterPlus.app/rateView.pngbad87455df6db541^d6c47655df6db541^---0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/rateView.png000000000080d041^894"CpResource AppiraterPlus/Resources/rateView.png build/Debug-iphonesimulator/AppiraterPlus.app/rateView.png    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/Resources/rateView.png" "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app"36"1AD1613F-CC1D-420F-B082-3A021339024E-
+
+CGenerateDSYMFile "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app.dSYM" "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus"
+s359522239.967529
+e359522239.988543
+r1
+xGenerateDSYMFile
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app.dSYM
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Generating /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app.dSYM9bc9f7bfdf6db541^730ffdbfdf6db541^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app.dSYM/0000000000000000^838"GenerateDSYMFile build/Debug-iphonesimulator/AppiraterPlus.app.dSYM build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus" -o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app.dSYM"36"BBB0DA73-C446-4ECD-A8D8-5D8056153AB9-
+
+CLd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus" normal i386
+s359522239.927617
+e359522239.960494
+r1
+xLd
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Link /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus2a8cedbfdf6db541^04e2f5bfdf6db541^---0#0#0#--1535"Ld build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus normal i386    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator" "-F/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator" -filelist "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/Objects-normal/i386/AppiraterPlus.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -framework SystemConfiguration -framework CFNetwork -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/AppiraterPlus"36"164D207D-7AA3-45B0-85F9-6EB66F0928B5-
+
+CProcessInfoPlistFile "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/Info.plist" AppiraterPlus/AppiraterPlus-Info.plist
+s359522132.773157
+e359522132.776830
+r1
+xProcessInfoPlistFile
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/Info.plist
+xAppiraterPlus/AppiraterPlus-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process AppiraterPlus/AppiraterPlus-Info.plistc407c654df6db541^d107c754df6db541^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus-Info.plist0000000000000000^860"ProcessInfoPlistFile build/Debug-iphonesimulator/AppiraterPlus.app/Info.plist AppiraterPlus/AppiraterPlus-Info.plist    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AppiraterPlus/AppiraterPlus-Info.plist -genpkginfo "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app/Info.plist"36"EC0C7FAD-33F1-4A65-B08D-46062ECEE530-
+
+CProcessPCH /Users/Shared/tjfallon/Products/AppiraterPlus-evsftkfaeenuyifodinfzslkorcm/Index/PrecompiledHeaders/AppiraterPlus-Prefix-byjkqzyibtigxaacdbcfxcuimvzy_ast/AppiraterPlus-Prefix.pch.pth AppiraterPlus/AppiraterPlus-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch.pth AppiraterPlus/AppiraterPlus-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359522132.785512
+e359522133.104731
+r1
+xProcessPCH
+x/var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch.pth
+xAppiraterPlus/AppiraterPlus-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile AppiraterPlus/AppiraterPlus-Prefix.pchc939c954df6db541^83f61a55df6db541^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/tjfallon/Documents/iOS%20Projects/Dropbox/Working%20Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus-Prefix.pch0000000000000000^3979"ProcessPCH /var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch.pth AppiraterPlus/AppiraterPlus-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-generated-files.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-own-target-headers.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-all-target-headers.hmap" -iquote "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/AppiraterPlus-project-headers.hmap" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/include" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/DerivedSources/i386" "-I/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/AppiraterPlus.build/Debug-iphonesimulator/AppiraterPlus.build/DerivedSources" "-F/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator" --serialize-diagnostics /var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch.dia -c "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/AppiraterPlus/AppiraterPlus-Prefix.pch" -o /var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/6p/v9_vyh393313j_hrckb1nrgm0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/AppiraterPlus-Prefix-frausdujeyvgxwamhnsngnsmveal/AppiraterPlus-Prefix.pch.d36"D43D1890-083B-4DB4-B858-D0799B583005-
+
+CTouch "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app"
+s359522240.032013
+e359522240.040308
+r1
+xTouch
+x/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Touch /Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.appc84208c0df6db541^52810fc0df6db541^---0#0#0#--512"Touch build/Debug-iphonesimulator/AppiraterPlus.app    cd "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/tjfallon/Documents/iOS Projects/Dropbox/Working Directory/AppiraterPlus/AppiraterPlus/build/Debug-iphonesimulator/AppiraterPlus.app"36"FE633C70-702E-4043-8B33-081211E75B6E-
+

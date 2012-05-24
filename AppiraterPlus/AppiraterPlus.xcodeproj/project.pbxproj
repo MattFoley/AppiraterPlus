@@ -1,0 +1,321 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6BA7BA67156DDB640041E27C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BA7BA66156DDB640041E27C /* UIKit.framework */; };
+		6BA7BA69156DDB640041E27C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BA7BA68156DDB640041E27C /* Foundation.framework */; };
+		6BA7BA6B156DDB640041E27C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BA7BA6A156DDB640041E27C /* CoreGraphics.framework */; };
+		6BA7BA71156DDB640041E27C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6BA7BA6F156DDB640041E27C /* InfoPlist.strings */; };
+		6BA7BA73156DDB640041E27C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BA7BA72156DDB640041E27C /* main.m */; };
+		6BA7BA77156DDB640041E27C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BA7BA76156DDB640041E27C /* AppDelegate.m */; };
+		6BA7BA7A156DDB640041E27C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BA7BA79156DDB640041E27C /* ViewController.m */; };
+		6BA7BA7D156DDB640041E27C /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6BA7BA7B156DDB640041E27C /* ViewController.xib */; };
+		6BA7BA89156DDBEA0041E27C /* AppiraterPlus.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BA7BA85156DDBEA0041E27C /* AppiraterPlus.m */; };
+		6BA7BA8A156DDBEA0041E27C /* AppiraterPlus.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6BA7BA86156DDBEA0041E27C /* AppiraterPlus.xib */; };
+		6BA7BA8B156DDBEA0041E27C /* rateView.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BA7BA88156DDBEA0041E27C /* rateView.png */; };
+		6BA7BA8E156DDE020041E27C /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BA7BA8D156DDE020041E27C /* CFNetwork.framework */; };
+		6BA7BA90156DDE060041E27C /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BA7BA8F156DDE060041E27C /* SystemConfiguration.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6BA7BA62156DDB640041E27C /* AppiraterPlus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppiraterPlus.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BA7BA66156DDB640041E27C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		6BA7BA68156DDB640041E27C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		6BA7BA6A156DDB640041E27C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		6BA7BA6E156DDB640041E27C /* AppiraterPlus-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AppiraterPlus-Info.plist"; sourceTree = "<group>"; };
+		6BA7BA70156DDB640041E27C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6BA7BA72156DDB640041E27C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6BA7BA74156DDB640041E27C /* AppiraterPlus-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AppiraterPlus-Prefix.pch"; sourceTree = "<group>"; };
+		6BA7BA75156DDB640041E27C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		6BA7BA76156DDB640041E27C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		6BA7BA78156DDB640041E27C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		6BA7BA79156DDB640041E27C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		6BA7BA7C156DDB640041E27C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		6BA7BA85156DDBEA0041E27C /* AppiraterPlus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppiraterPlus.m; sourceTree = "<group>"; };
+		6BA7BA86156DDBEA0041E27C /* AppiraterPlus.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = AppiraterPlus.xib; path = ../AppiraterPlus/AppiraterPlus.xib; sourceTree = "<group>"; };
+		6BA7BA88156DDBEA0041E27C /* rateView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rateView.png; sourceTree = "<group>"; };
+		6BA7BA8C156DDC7B0041E27C /* AppiraterPlus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppiraterPlus.h; sourceTree = "<group>"; };
+		6BA7BA8D156DDE020041E27C /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		6BA7BA8F156DDE060041E27C /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6BA7BA5F156DDB640041E27C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6BA7BA90156DDE060041E27C /* SystemConfiguration.framework in Frameworks */,
+				6BA7BA8E156DDE020041E27C /* CFNetwork.framework in Frameworks */,
+				6BA7BA67156DDB640041E27C /* UIKit.framework in Frameworks */,
+				6BA7BA69156DDB640041E27C /* Foundation.framework in Frameworks */,
+				6BA7BA6B156DDB640041E27C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6BA7BA57156DDB640041E27C = {
+			isa = PBXGroup;
+			children = (
+				6BA7BA8F156DDE060041E27C /* SystemConfiguration.framework */,
+				6BA7BA8D156DDE020041E27C /* CFNetwork.framework */,
+				6BA7BA6C156DDB640041E27C /* AppiraterPlus */,
+				6BA7BA65156DDB640041E27C /* Frameworks */,
+				6BA7BA63156DDB640041E27C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6BA7BA63156DDB640041E27C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6BA7BA62156DDB640041E27C /* AppiraterPlus.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6BA7BA65156DDB640041E27C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6BA7BA66156DDB640041E27C /* UIKit.framework */,
+				6BA7BA68156DDB640041E27C /* Foundation.framework */,
+				6BA7BA6A156DDB640041E27C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6BA7BA6C156DDB640041E27C /* AppiraterPlus */ = {
+			isa = PBXGroup;
+			children = (
+				6BA7BA75156DDB640041E27C /* AppDelegate.h */,
+				6BA7BA76156DDB640041E27C /* AppDelegate.m */,
+				6BA7BA78156DDB640041E27C /* ViewController.h */,
+				6BA7BA79156DDB640041E27C /* ViewController.m */,
+				6BA7BA7B156DDB640041E27C /* ViewController.xib */,
+				6BA7BA83156DDBEA0041E27C /* AppiraterPlus */,
+				6BA7BA6D156DDB640041E27C /* Supporting Files */,
+			);
+			path = AppiraterPlus;
+			sourceTree = "<group>";
+		};
+		6BA7BA6D156DDB640041E27C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6BA7BA87156DDBEA0041E27C /* Resources */,
+				6BA7BA6E156DDB640041E27C /* AppiraterPlus-Info.plist */,
+				6BA7BA6F156DDB640041E27C /* InfoPlist.strings */,
+				6BA7BA72156DDB640041E27C /* main.m */,
+				6BA7BA74156DDB640041E27C /* AppiraterPlus-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6BA7BA83156DDBEA0041E27C /* AppiraterPlus */ = {
+			isa = PBXGroup;
+			children = (
+				6BA7BA8C156DDC7B0041E27C /* AppiraterPlus.h */,
+				6BA7BA85156DDBEA0041E27C /* AppiraterPlus.m */,
+			);
+			path = AppiraterPlus;
+			sourceTree = "<group>";
+		};
+		6BA7BA87156DDBEA0041E27C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6BA7BA86156DDBEA0041E27C /* AppiraterPlus.xib */,
+				6BA7BA88156DDBEA0041E27C /* rateView.png */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6BA7BA61156DDB640041E27C /* AppiraterPlus */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6BA7BA80156DDB640041E27C /* Build configuration list for PBXNativeTarget "AppiraterPlus" */;
+			buildPhases = (
+				6BA7BA5E156DDB640041E27C /* Sources */,
+				6BA7BA5F156DDB640041E27C /* Frameworks */,
+				6BA7BA60156DDB640041E27C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AppiraterPlus;
+			productName = AppiraterPlus;
+			productReference = 6BA7BA62156DDB640041E27C /* AppiraterPlus.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6BA7BA59156DDB640041E27C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 6BA7BA5C156DDB640041E27C /* Build configuration list for PBXProject "AppiraterPlus" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6BA7BA57156DDB640041E27C;
+			productRefGroup = 6BA7BA63156DDB640041E27C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6BA7BA61156DDB640041E27C /* AppiraterPlus */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6BA7BA60156DDB640041E27C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6BA7BA71156DDB640041E27C /* InfoPlist.strings in Resources */,
+				6BA7BA7D156DDB640041E27C /* ViewController.xib in Resources */,
+				6BA7BA8A156DDBEA0041E27C /* AppiraterPlus.xib in Resources */,
+				6BA7BA8B156DDBEA0041E27C /* rateView.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6BA7BA5E156DDB640041E27C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6BA7BA73156DDB640041E27C /* main.m in Sources */,
+				6BA7BA77156DDB640041E27C /* AppDelegate.m in Sources */,
+				6BA7BA7A156DDB640041E27C /* ViewController.m in Sources */,
+				6BA7BA89156DDBEA0041E27C /* AppiraterPlus.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6BA7BA6F156DDB640041E27C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6BA7BA70156DDB640041E27C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		6BA7BA7B156DDB640041E27C /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6BA7BA7C156DDB640041E27C /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6BA7BA7E156DDB640041E27C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		6BA7BA7F156DDB640041E27C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6BA7BA81156DDB640041E27C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AppiraterPlus/AppiraterPlus-Prefix.pch";
+				INFOPLIST_FILE = "AppiraterPlus/AppiraterPlus-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		6BA7BA82156DDB640041E27C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AppiraterPlus/AppiraterPlus-Prefix.pch";
+				INFOPLIST_FILE = "AppiraterPlus/AppiraterPlus-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6BA7BA5C156DDB640041E27C /* Build configuration list for PBXProject "AppiraterPlus" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6BA7BA7E156DDB640041E27C /* Debug */,
+				6BA7BA7F156DDB640041E27C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6BA7BA80156DDB640041E27C /* Build configuration list for PBXNativeTarget "AppiraterPlus" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6BA7BA81156DDB640041E27C /* Debug */,
+				6BA7BA82156DDB640041E27C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6BA7BA59156DDB640041E27C /* Project object */;
+}
